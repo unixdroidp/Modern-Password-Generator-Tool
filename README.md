@@ -35,7 +35,7 @@ A highly configurable, professional-grade GUI application built with Tkinter for
 
 Run the script:
 ```
-python system_manager.py
+Modern_Password_Generator_Tool.py
 ```
 
 ## Usage
